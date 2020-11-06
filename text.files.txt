@@ -1,0 +1,1 @@
+echo "hello world" > new.txt: makes  text file that says hello world 

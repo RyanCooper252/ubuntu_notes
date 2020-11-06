@@ -1,0 +1,4 @@
+wc- tells about a text file
+	-c: only tells about charcters
+	-l: tells only about lines
+	-w: tells about only words

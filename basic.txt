@@ -1,0 +1,43 @@
+scd- change directory 
+	cd ~: goesto home directory
+	cd ..: goes back one directory
+
+ls- list of things in current directory
+	ls -a: lists all hidden things in current directory
+	ls -l: lists all things in current directory with extra info (time created, etc.)
+
+pwd- tells what directory im in
+
+mkdir- Make directory
+
+touch- make text file
+
+nano- edit text file
+
+cat- read text file
+
+mv- change file name "mv file1.txt file2.txt"- changes name to "file2.txt"
+
+cp- copy file "cp txt.txt txt"
+
+rm- remove file
+
+rmdir- remove directory
+	rm -R: remove a directory with stuff inside it
+
+which- search for files
+
+history- shows recent commands
+
+sudo- run as root
+
+apt install- install a package
+	apt-get install __ 
+
+iwconfig- tells about wifi 
+
+uname -a: summary of system
+
+sudo shutdown -h (time)- shuts down system 
+
+sudo bash- makes you root

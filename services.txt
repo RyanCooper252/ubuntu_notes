@@ -1,0 +1,10 @@
+service --status-all tells about all status's
+	+: active service
+	-: not active service
+
+service "acpid" status: gives all info about service
+	
+service "acpid" stop: stops service
+
+service "acpid" start: starts service
+

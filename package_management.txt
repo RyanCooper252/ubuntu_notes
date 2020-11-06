@@ -1,0 +1,10 @@
+sudo apt-get update: updates repository
+
+apt-cache search "example": searches for all "example" packages
+
+sudo apt-get install "example": installs "example" packages
+
+sudo apt-get remove "example": "archives" file
+
+sudo apt-get purge "example": completely removes file
+

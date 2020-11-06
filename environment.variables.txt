@@ -1,0 +1,9 @@
+echo: gives info
+	EX: echo$HOME- tells the home adress 
+
+env: gives all variables in system 
+
+NVariable: makes a variable
+	EX: NVariable=abc123
+
+unset: deletes variabale 

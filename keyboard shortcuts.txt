@@ -1,0 +1,4 @@
+Ctrl+shift+N		Create Directory
+alt + home		get back home directory 
+alt + F4		close current window
+

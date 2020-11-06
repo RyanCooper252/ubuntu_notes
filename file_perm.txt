@@ -1,0 +1,37 @@
+ls -l: lists file permmissions and when they were last edited
+	
+	first part before first dash is owner privlages
+	second part is guest
+	third part is public
+
+chmod- give or take away perms
+	chmod 777 test.txt would give everyone all perms while 000 would give everyone no perms
+	EX: chmod u-w Hello.txt (would take writing perms away from user for hello.txt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variables:
+r- reading
+w- writing
+x- exicuting
+d- directory
+
+u- user
+g- groups
+o- other people
+
+4-read
+2-write
+1-execute
+0-no perms

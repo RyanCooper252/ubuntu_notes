@@ -1,0 +1,10 @@
+gzip: zips a file
+
+gunzip: unzips a file
+
+tar cvf compress.tar: zips multiple files together into a file called compress.tar
+
+tar xvf compress.tar: unzips multiple files
+
+
+

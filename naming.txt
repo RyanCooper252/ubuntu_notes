@@ -1,0 +1,3 @@
+touch new\ file- makes file called "new file" with space
+
+mkdir new\ Directory- makes directory with space 

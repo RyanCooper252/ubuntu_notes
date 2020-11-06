@@ -1,0 +1,8 @@
+cat /etc/group: reads all groups
+
+sudo useradd -d /home/ryan -s /bin/bash -g colord -m: adds user into group called colord
+
+sudo groupadd Linuxusers: makes a group called Linuxusers
+
+sudo groupdel (userdel): removes group or user
+
